@@ -3,7 +3,7 @@
 
 int main()
 {
-	Game game("Ahmed", "Samy");
+	Game game("Player 1", "Player 2");
 	game.Start();
 	game.Run();
 }
